@@ -4,4 +4,4 @@ Copy code
 https://kianoushramezanishabolaghi.github.io/Website/first.html
 in a browser search
 or  
-https://github.com/KianoushRamezaniShabolaghi/Website/blob/main/GPT_Created.html
+https://KianoushRamezaniShabolaghi.github.io/Website/GPT_Created.html
