@@ -8,4 +8,4 @@ https://KianoushRamezaniShabolaghi.github.io/Website/GPT_Created.html
 
 
 for Professional Website:
-https://kianoushramezanishabolaghi.github.io/Website/Professional_Website/Kianoush.html
+https://kianoushramezanishabolaghi.github.io/Website/Professional_Website/kianoush.html
